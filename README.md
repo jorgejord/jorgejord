@@ -5,7 +5,6 @@ Student
 -------
 
 * 🌍  I'm based in Phayao,Thailand
-* 🧠  I'm learning C#
 
 ### Skills
 
